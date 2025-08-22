@@ -5,7 +5,7 @@
     <b>
       <br>
       <p style="font-family: 'Comic Sans MS', cursive; font-size: 2rem;color:#BF91F3;">
-            <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=D68BDE&width=900&size=21&center=true&lines=Olá,+meu+nome+é+Camila;Mas+pode+me+chamar+de+Milah" alt="Typing SVG"/>
+            <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=D68BDE&width=900&size=21&center=true&lines=Olá,+meu+nome+é+Camila;Mas+pode+me+chamar+de+Milah" alt="Nome"/>
       </p>
       <br>
 </div>
