@@ -1,1 +1,1 @@
-# Olá, me chamo Camila!
+Olá, meu nome é Camila Adriana, tenho 24 anos e sou uma entusiasta na área  de sistemas. Atualmente curso Análise e Desenvolvimento de Sistemas e busco constantemente aprimorar meus conhecimentos na área de tecnologia. Gosto de explorar novas ferramentas, aprender com desafios e transformar ideias em soluções criativas por meio do código. Aqui no GitHub compartilho projetos, estudos e minha evolução como desenvolvedora, sempre com o objetivo de crescer profissionalmente e contribuir com a comunidade.
