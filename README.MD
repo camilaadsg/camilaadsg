@@ -16,6 +16,7 @@ Olá, meu nome é Camila Adriana, tenho 24 anos entusiasta na área de sistemas.
 ![](https://nirzak-streak-stats.vercel.app/?user=camilaadsg&theme=ambient_gradient&hide_border=false)`<br/>`
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=camilaadsg&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+![Snake animation](https://github.com/camilaadsg/camilaadsg/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
