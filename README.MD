@@ -1,8 +1,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=5C28B0"/>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=D68BDE&width=900&size=32&center=true&lines=Olá+meu+nome+é+Camila;Mas+pode+me+chamar+de+Milah" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&pause=1000&color=D68BDE&width=900&size=32&center=true&vCenter=true&lines=Olá+meu+nome+é+Camila;Mas+pode+me+chamar+de+Milah" alt="Typing SVG"/>
 </div>
+
 <div align="center">
   <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fcamilaadsg&s=21&c=D68BDE&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" /></p> 
 </div>
