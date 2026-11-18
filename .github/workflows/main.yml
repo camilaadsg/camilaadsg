@@ -8,10 +8,10 @@ on:
   # allows to manually run the job at any time
   workflow_dispatch:
   
-  # run on every push on the master branch
+  # run on every push on the main branch
   push:
     branches:
-    - master
+    - main
     
   
 
@@ -28,6 +28,8 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: camilaadsg
+          # token pessoal (secret SNK_TOKEN) para a cobrinha enxergar as contribuições privadas
+          github_token: ${{ secrets.SNK_TOKEN || github.token }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
